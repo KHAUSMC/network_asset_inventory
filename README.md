@@ -33,5 +33,18 @@ As I learn more about cybersecurity, I am applying basic network security best p
 ### 📌 Access Control & Monitoring  
 - **Restricted guest devices** to an **isolated network** to prevent access to my private files.  
 - **Manually check router logs** for unknown devices or unusual activity.  
-- **Keep all devices updated** by enabling **automatic software and firmware updates**.  
+- **Keep all devices updated** by enabling **automatic software and firmware updates**.
+
+## 🚀 Why This Is In My Portfolio  
+
+This project showcases my ability to:  
+
+- ✅ **Document and manage network-connected devices**  
+- ✅ **Apply basic cybersecurity best practices**  
+- ✅ **Understand asset classification and risk management**  
+- ✅ **Use GitHub for cybersecurity documentation**  
+
+I plan to continue improving my security setup by exploring **firewalls, VPNs, and automated security monitoring**.  
+As I learn more, I will update this repository with **new security measures and insights**.  
+  
 
